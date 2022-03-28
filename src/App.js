@@ -233,6 +233,12 @@ export default class App extends React.Component {
           maxWidth: "600px"
         }}
       >
+        "Climate change improvements and investments," says the judge who is
+        trust building, do not use their money nor your own constitutents on the
+        state as victim nor defendant, but for the beneficiaries of said
+        damages, albeit unwittingly, such protocol is even-handed mediation
+        without too much going to treasury nor laborless-demands' (insurance,
+        landlord, lender) projections
         <h1>
           65% support occupying wall st
           {/**vaults.biz/party, occupywallst.quora.com */} to end debt
