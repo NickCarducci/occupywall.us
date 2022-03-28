@@ -296,6 +296,38 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        <a href="https://2024nj.com/disability">
+          4x 2.5m multiple sclerosis/polio all-cause nervous disease
+        </a>
+        .<br />
+        <br />
+        <a href="https://qr.ae/pG0VAl">The Federal Budget</a>
+        <br />
+        <br />
+        No bars held
+        <br />
+        Debentures (corporate bonds can sell before default), loans (personal
+        debentures can buy before default) and trust-breaking-hypocrisy for
+        science rents but for royalty% and truncated production tax
+        geohash/month + 2 week public review for unilaterally known hazard tort
+        jail contract larceny like foreseeable possibility or surrendered
+        freedom to bid of labor-borne demand. $1.8t/yr debt spending
+        <br />
+        <br />
+        (cash/debt)*income every year back
+        <br />
+        <br />
+        PCE-CPI ascertainable by employer contributions to standardized
+        guarantee{space}
+        <a href="https://www.bls.gov/osmr/research-papers/2017/st170010.htm">
+          loss
+        </a>
+        , implausible use leases instead of vertical-industry max-royalty
+        <br />
+        <br />
+        Obamacare mean inflation works because Healthcare was smaller part in
+        financial-less GDP/yr, Supply is not substitutive for Demand because the
+        latter is not by labor of any market
       </div>
     );
   }
