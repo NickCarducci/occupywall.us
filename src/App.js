@@ -478,11 +478,24 @@ export default class App extends React.Component {
           unilateral known hazard or tort first if victim, NEVER STATE trust
           breaking hypocrisy nor bond loss profit per diem incarceration
           conflict of interest, like guarantee disability of 35.4% by
-          anti-social behavior, 5.2%{space}
+          anti-social{space}
+          <a href="https://brainscan.info">behavior</a>, 5.2%{space}
           <a href="https://www.ssa.gov/policy/docs/statcomps/nbs/index.html">
             tard
           </a>
           ?
+          <br />
+          <br />
+          <a href="https://www.cdc.gov/nchs/data/vsus/vsus_1950_1.pdf#page=104">
+            1941 baby boomer fraud
+          </a>
+          {space}for mortgage-checking/non-fungible for currency no-longer (Jim
+          Sciutto, "we are helping") against donee beneficiary or force majeure
+          standing, by loaned collateral or general income corporate debenture,
+          bond. mRNA sporing graft causes immunocompromised (onconogenic){space}
+          <a href="https://link.springer.com/article/10.1007/s00259-021-05314-2">
+            oncogenesis
+          </a>
         </div>
       </div>
     );
