@@ -239,6 +239,7 @@ export default class App extends React.Component {
         </h1>
         <div
           style={{
+            color: "white",
             backgroundColor: "darkviolet",
             border: "1px solid",
             borderRadius: "10px",
@@ -585,7 +586,7 @@ export default class App extends React.Component {
           <div
             style={{
               color: "white",
-              backgroundColor: "darkviolet",
+              backgroundColor: "dodgerblue",
               border: "1px solid black",
               borderRadius: "10px",
               margin: "10px 4px",
