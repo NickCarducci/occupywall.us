@@ -363,6 +363,10 @@ export default class App extends React.Component {
         service and not treasury trust breaking hypocrisy, Article 1.8 bond-tax
         equal oxymoronic and Demand for investible income compels war machine,
         contractors, subsidies or tax.
+        <br />
+        <br />
+        income inequality used to corner the market, and real GDP is
+        government+structures
       </div>
     );
   }
