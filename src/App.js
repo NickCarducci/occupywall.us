@@ -439,7 +439,10 @@ export default class App extends React.Component {
           <br />
           <br />- one of the twice worker{space}
           <a href="https://vaults.biz/party">25-34/45-54</a>. Born and Raised
-          Red Bank Home Contractor estimate as property Consumer Fraud
+          Red Bank Home Contractor estimate as property Consumer Fraud. 30hr
+          wkweek acc'ting harmless prank for petty sales tax due for
+          ~ratification~ of slavery (imputed) GDP/p expense growth 1814-1870,
+          still, around base -1913, 3-1%/yr+ population
         </div>
       </div>
     );
