@@ -542,6 +542,20 @@ export default class App extends React.Component {
           <br />
           fusion reactor torus{space}
           <a href="https://magnate.company">PHONE</a>
+          <br />
+          <br />
+          <div
+            style={{
+              color: "white",
+              backgroundColor: "firebrick",
+              border: "1px solid black",
+              borderRadius: "10px",
+              margin: "10px 4px",
+              padding: "10px"
+            }}
+          >
+            Global UBI laborless-demand CNN Hospital Fund to the right
+          </div>
         </div>
       </div>
     );
