@@ -346,7 +346,8 @@ export default class App extends React.Component {
         <a href="https://www.bls.gov/osmr/research-papers/2017/st170010.htm">
           loss
         </a>
-        , implausible use leases instead of vertical-industry max-royalty
+        , implausible use leases (beyond 5 storefronts and condominiums) instead
+        of vertical-industry max-royalty
         <br />
         <br />
         Obamacare mean inflation works because Healthcare was smaller part in
