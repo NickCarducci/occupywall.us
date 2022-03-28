@@ -237,6 +237,12 @@ export default class App extends React.Component {
           65% support occupying wall st
           {/**vaults.biz/party, occupywallst.quora.com */} to end debt
         </h1>
+        healthcare not wealthcare, standardized guarantee nor debenture or loan
+        - laborless-demand always target margin if operational monopsony, or
+        11/12 vertical-line-industry mvp duress permit, programattic injunctions
+        of evidence, no bail nor state vic ever, whistleblowers on jury, fine
+        judges for successful appeals.
+        <br />
         "They do depend on our help."
         {/* Even a charity just funds their producers' */}
         <br />
