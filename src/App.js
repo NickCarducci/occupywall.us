@@ -308,13 +308,24 @@ export default class App extends React.Component {
         <br />
         Debentures (corporate bonds can sell before default), loans (personal
         debentures can buy before default) and trust-breaking-hypocrisy for
-        science rents but for royalty% and truncated production tax
-        geohash/month + 2 week public review for unilaterally known hazard tort
-        jail contract larceny like foreseeable possibility or surrendered
-        freedom to bid of labor-borne demand. $1.8t/yr debt spending
+        science rents but for
+        <br />
+        <span style={{ color: "purple" }}>
+          *royalty% and truncated production tax geohash/month + 2 week public
+          review for unilaterally known hazard tort jail contract larceny like
+          foreseeable possibility or surrendered freedom to bid of labor-borne
+          demand.
+        </span>
+        {space}$1.8t/yr debt spending, $2t currency, +$4t checking by Mortgage
+        no longer fungible for, 1/4 corporate, 3/4 head of household (to pay off
+        mortgage).
         <br />
         <br />
         (cash/debt)*income every year back
+        <br />
+        <br />
+        Treasury currency inventory royalty% subservient to customers ask-first
+        - never inventory lessing for surrendered freedom by implau
         <br />
         <br />
         PCE-CPI ascertainable by employer contributions to standardized
@@ -327,7 +338,18 @@ export default class App extends React.Component {
         <br />
         Obamacare mean inflation works because Healthcare was smaller part in
         financial-less GDP/yr, Supply is not substitutive for Demand because the
-        latter is not by labor of any market
+        latter is not by labor of any market, ...no quality-skew scapegoated
+        <br />
+        <br />
+        Programmatic evidence-reviewable jail or immediate acquital. NO BAIL FOR
+        ANY CRIMINAL; larceny in contract (EULA donee beneficiary){space}
+        <span style={{ color: "purple" }}>included*</span>
+        <br />
+        <br />
+        "stab, push, angry, not criminal???" Uneducated not disabled? Education
+        pays, but it isn't presented for{space}
+        <a href="https://2024nj.com/bachelors">work</a>
+        {/**Jim Quinn */}
       </div>
     );
   }
