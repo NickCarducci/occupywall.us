@@ -496,6 +496,14 @@ export default class App extends React.Component {
           <a href="https://link.springer.com/article/10.1007/s00259-021-05314-2">
             oncogenesis
           </a>
+          <br />
+          winning by chance of standardized guarantee but for labor-borne bid
+          surrendered by tortious contractor, by request for proposal of
+          foreseeable impossibility or non-option to buy, down-payment with
+          standing of nothing but the very price, if it happens, not more and
+          especially if it requires it, to breakeven
+          {/*thru-overhead profit-projected*/}
+          at least
         </div>
       </div>
     );
