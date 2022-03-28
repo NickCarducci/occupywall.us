@@ -574,6 +574,22 @@ export default class App extends React.Component {
               padding: "10px"
             }}
           >
+            <Cable
+              style={{}}
+              onError={handleScollImgError}
+              //img={true}
+              src={
+                this.state.noyout
+                  ? ""
+                  : "https://www.youtube.com/embed/AQ7h_U5G0fY?start=112"
+              }
+              float={"right"}
+              title="Here I cite the Ad Council slander of marijuana users causing accidents, but same per capita prevalence as usage, generally, and the conflict of interests of expiring premium name your price false bid pool surrendered freedom of co-signatories’ customers, liability implied of contractor by https://youtu.be/AQ7h_U5G0fY?t=112"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + scrollnum()]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
             Global UBI laborless-demand CNN Hospital Fund standardized guarantee
             scheme to the right ukrainian support to shelther heat medicine
             cooking supplies, generators, canned water and dried food.
