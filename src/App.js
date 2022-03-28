@@ -513,8 +513,11 @@ export default class App extends React.Component {
           <br />
           <br />
           illegal immigration and licensure closed souce vig laws are prevention
-          of commerce, illegal immigrants are -1% criminal, parcels are
-          unchecked. Trump is racist,{space}
+          of commerce, illegal immigrants are -1%{space}
+          <a href="https://www.pnas.org/content/117/51/32340/tab-figures-data">
+            criminal
+          </a>
+          , parcels are unchecked. Trump is racist,{space}
           <a href="https://teapharmacy.party/drugs">
             Minnesota pharma bank cop cartel is guilty
           </a>
