@@ -557,11 +557,11 @@ export default class App extends React.Component {
             Global UBI laborless-demand CNN Hospital Fund standardized guarantee
             scheme to the right ukrainian support to shelther heat medicine
             cooking supplies, generators, canned water and dried food.
-            front-running with their own money
+            front-running with their own money share split ratification by death
+            of Donald Trump
           </div>
         </div>
       </div>
     );
   }
 }
-
