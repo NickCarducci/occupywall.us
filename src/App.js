@@ -250,8 +250,9 @@ export default class App extends React.Component {
           healthcare not wealthcare, standardized guarantee nor debenture or
           loan - laborless-demand always target margin if operational monopsony,
           or 11/12 vertical-line-industry mvp duress permit, programattic
-          injunctions of evidence, no bail nor state vic ever, whistleblowers on
-          jury, fine judges for successful appeals.
+          injunctions of evidence, no bail nor state vic (tort) ever,
+          whistleblowers on jury (reparations by tort, never 'name-your-price'
+          tool), fine judges for successful appeals.
         </div>
         <br />
         "They do depend on our help."
