@@ -438,7 +438,8 @@ export default class App extends React.Component {
           even by concurrency but absolutely.
           <br />
           <br />- one of the twice worker{space}
-          <a href="https://vaults.biz/party">25-34/45-54</a>
+          <a href="https://vaults.biz/party">25-34/45-54</a>. Born and Raised
+          Red Bank Home Contractor estimate as property Consumer Fraud
         </div>
       </div>
     );
