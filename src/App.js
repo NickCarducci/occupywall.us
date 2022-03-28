@@ -324,8 +324,9 @@ export default class App extends React.Component {
         (cash/debt)*income every year back
         <br />
         <br />
-        Treasury currency inventory royalty% subservient to customers ask-first
-        - never inventory lessing for surrendered freedom by implau
+        Treasury currency inventory (transaction fee) royalty% subservient to
+        customers ask-first - never inventory lessing for surrendered freedom by
+        implau
         <br />
         <br />
         PCE-CPI ascertainable by employer contributions to standardized
@@ -350,6 +351,18 @@ export default class App extends React.Component {
         pays, but it isn't presented for{space}
         <a href="https://2024nj.com/bachelors">work</a>
         {/**Jim Quinn */}
+        <br />
+        <br />
+        1/hour-GDP/p economic welfare
+        <br />
+        do not use policy to put people to work without natural demand, that is,
+        target margin operational monopsony albeit free rider mutable pipelines,
+        NFC Motor Vehicle bridge tolls, and spectrum, not sewage gravity
+        toilets, police and lawsits of naming and open ingredient lists by
+        without bond loss profit and rather equal regressive tax for such
+        service and not treasury trust breaking hypocrisy, Article 1.8 bond-tax
+        equal oxymoronic and Demand for investible income compels war machine,
+        contractors, subsidies or tax.
       </div>
     );
   }
