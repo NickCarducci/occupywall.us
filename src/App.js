@@ -233,7 +233,10 @@ export default class App extends React.Component {
           maxWidth: "600px"
         }}
       >
-        <h1>65% support occupying wall st to end debt</h1>
+        <h1>
+          65% support occupying wall st
+          {/**vaults.biz/party, occupywallst.quora.com */} to end debt
+        </h1>
         "They do depend on our help."
         {/* Even a charity just funds their producers' */}
         <br />
@@ -388,7 +391,44 @@ export default class App extends React.Component {
         index fund doesn't actually own equities of -science/skew
         <br />
         <br />
-        65% mortgage, 35% rent, the rest less inventory
+        65% mortgage, 35% rent, the rest less inventory. But for what than
+        1/hour-GDP/p economic welfare?
+        <br />
+        <br />
+        GDP/p 0%/yr+ amidst population growth has history
+        <br />
+        <br />
+        Demand of investible income and jobs priced by hou/wage lmao substitute
+        by other market by indifference/utility
+        <br />
+        <div>
+          Note from the author:
+          <br />
+          As Senator of NJ I'll reverse amortize the General Fund
+          <br />
+          NAICS industry vertical line max-royalty
+          <br />
+          tortious
+          <br />
+          Debenture can sell inventory before default and (defaulted) personal
+          home equity loan can buy before default lmao
+          <br />
+          (cash/debt)*income every year back - Mediate Saver-lesser surrendered
+          bid occupying
+          <br />
+          truncated production tax world peace geohash/month + 2 week public
+          review
+          <br />
+          <br />
+          Hryvnia / Rouble customs here to help? Currency fungible for treasury
+          inventory never lessing royalty, for treasury is vault share already,
+          security depositary receipt, security repository (transaction fee)
+          <br />
+          <br />
+          the other side of the coin/yr is 11/1 *$2t currency, and now checking
+          is $6t; just like the index isn't actually fungible for anything, not
+          even by concurrency but absolutely.
+        </div>
       </div>
     );
   }
