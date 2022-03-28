@@ -508,7 +508,7 @@ export default class App extends React.Component {
           foreseeable impossibility or non-option to buy, down-payment with
           standing of nothing but the very price, if it happens, not more and
           especially if it requires it, to breakeven
-          {/*thru-overhead profit-projected*/}
+          {/*thru-overhead profit-projected*/ " "}
           at least
           <br />
           <br />
@@ -555,10 +555,13 @@ export default class App extends React.Component {
             }}
           >
             Global UBI laborless-demand CNN Hospital Fund standardized guarantee
-            scheme to the right
+            scheme to the right ukrainian support to shelther heat medicine
+            cooking supplies, generators, canned water and dried food.
+            front-running with their own money
           </div>
         </div>
       </div>
     );
   }
 }
+
