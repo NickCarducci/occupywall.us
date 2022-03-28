@@ -304,7 +304,7 @@ export default class App extends React.Component {
         <a href="https://qr.ae/pG0VAl">The Federal Budget</a>
         <br />
         <br />
-        No bars held
+        No holds, -barred
         <br />
         Debentures (corporate bonds can sell before default), loans (personal
         debentures can buy before default) and trust-breaking-hypocrisy for
