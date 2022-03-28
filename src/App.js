@@ -529,6 +529,9 @@ export default class App extends React.Component {
           <br />
           ratification petty tax scope Article 1.8 equal oxymoron - regressive
           tax
+          <br />
+          <br />
+          You can believe it, and neither can judge prejudice
         </div>
       </div>
     );
