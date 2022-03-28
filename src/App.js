@@ -306,12 +306,20 @@ export default class App extends React.Component {
         <br />
         <a href="https://qr.ae/pG0VAl">The Federal Budget</a>
         <br />
+        currency-only-politicians; "no-candidate" vote goes to power of the seat
+        <br />
         <br />
         No holds, ever
         <br />
-        Debentures (corporate bonds can sell before default), loans (personal
-        debentures can buy before default) and trust-breaking-hypocrisy for
-        science rents but for
+        Debentures (
+        <span style={{ color: "blue" }}>
+          corporate bonds can sell before default
+        </span>
+        ), loans (
+        <span style={{ color: "blue" }}>
+          personal debentures can buy before default
+        </span>
+        ) and trust-breaking-hypocrisy for science rents but for
         <br />
         <span style={{ color: "purple" }}>
           *royalty% and truncated production tax geohash/month + 2 week public
@@ -371,6 +379,11 @@ export default class App extends React.Component {
         <br />
         income inequality used to corner the market, and real GDP is
         government+structures
+        <br />
+        <br />
+        1/3 share debt is mort, corp (
+        <span style={{ color: "blue" }}>debenture</span>), tsy; consider the
+        index fund doesn't actually own equities of -science/skew
       </div>
     );
   }
