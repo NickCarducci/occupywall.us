@@ -386,7 +386,12 @@ export default class App extends React.Component {
         government+structures
         <br />
         <br />
-        1/3 share debt is mort, corp (
+        index fungible for NOTHING, PCE-CPI employer, Real GDP is gov +
+        structures. They took our imports by dollars lmao now we{space}
+        <span style={{ color: "blue" }}>
+          offlet inventory before corp before tsy debenture default
+        </span>
+        . 1/3 share debt is mort, corp (
         <span style={{ color: "blue" }}>debenture</span>), tsy; consider the
         index fund doesn't actually own equities of -science/skew
         <br />
@@ -419,7 +424,8 @@ export default class App extends React.Component {
           tortious
           <br />
           Debenture can sell inventory before default and (defaulted) personal
-          home equity loan can buy before default lmao
+          home equity loan can buy before default{space}
+          <span style={{ color: "blue" }}>lmao</span>
           <br />
           (cash/debt)*income every year back - Mediate Saver-lesser surrendered
           bid occupying
@@ -433,6 +439,22 @@ export default class App extends React.Component {
           security depositary receipt, security repository (transaction fee)
           <br />
           <br />
+          <Cable
+            style={{}}
+            onError={handleScollImgError}
+            img={true}
+            src={
+              this.state.noyout
+                ? ""
+                : "https://www.dropbox.com/s/gz5zm67cuds0yuk/Screen%20Shot%202022-03-28%20at%2010.45.06%20AM.png?raw=1"
+            }
+            float={"right"}
+            title="Renicance capital public double self employment tax than corporate - Demand of investible income and jobs priced by hour/wage lmao substitute by other market by indifference/utility"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           the other side of the coin/yr is 11/1 *$2t currency, and now checking
           is $6t; just like the index isn't actually fungible for anything, not
           even by concurrency but absolutely.
@@ -442,7 +464,25 @@ export default class App extends React.Component {
           Red Bank Home Contractor estimate as property Consumer Fraud. 30hr
           wkweek acc'ting harmless prank for petty sales tax due for
           ~ratification~ of slavery (imputed) GDP/p expense growth 1814-1870,
-          still, around base -1913, 3-1%/yr+ population
+          still, around base -1913, 3-1%/yr+ population.
+          <br />
+          <br />
+          public double self employment tax than corporate
+          <br />
+          <br />
+          firestore dollar Ut Nm Wy platform,{space}
+          <a href="https://www.natlawreview.com/article/army-corps-issues-notice-nationwide-permit-12-review-and-seeks-stakeholder-input">
+            wastewater shills rejoice
+          </a>
+          . Convict intranet with target margin network quality trust jail for
+          unilateral known hazard or tort first if victim, NEVER STATE trust
+          breaking hypocrisy nor bond loss profit per diem incarceration
+          conflict of interest, like guarantee disability of 35.4% by
+          anti-social behavior, 5.2%{space}
+          <a href="https://www.ssa.gov/policy/docs/statcomps/nbs/index.html">
+            tard
+          </a>
+          ?
         </div>
       </div>
     );
