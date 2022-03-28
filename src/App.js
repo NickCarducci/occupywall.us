@@ -459,28 +459,37 @@ export default class App extends React.Component {
           truncated production tax world peace geohash/month + 2 week public
           review
           <br />
-          <br />
-          Hryvnia / Rouble customs here to help? Currency fungible for treasury
-          inventory never lessing royalty, for treasury is vault share already,
-          security depositary receipt, security repository (transaction fee)
-          <br />
-          <br />
-          <Cable
-            style={{}}
-            onError={handleScollImgError}
-            img={true}
-            src={
-              this.state.noyout
-                ? ""
-                : "https://www.dropbox.com/s/gz5zm67cuds0yuk/Screen%20Shot%202022-03-28%20at%2010.45.06%20AM.png?raw=1"
-            }
-            float={"right"}
-            title="Renicance capital public double self employment tax than corporate - Demand of investible income and jobs priced by hour/wage lmao substitute by other market by indifference/utility"
-            scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + scrollnum()]}
-            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-            scrollTop={this.state.scrollTop}
-          />
+          <div
+            style={{
+              color: "white",
+              backgroundColor: "forestgreen",
+              border: "1px solid black",
+              borderRadius: "10px",
+              margin: "10px 4px",
+              padding: "10px"
+            }}
+          >
+            <Cable
+              style={{}}
+              onError={handleScollImgError}
+              img={true}
+              src={
+                this.state.noyout
+                  ? ""
+                  : "https://www.dropbox.com/s/gz5zm67cuds0yuk/Screen%20Shot%202022-03-28%20at%2010.45.06%20AM.png?raw=1"
+              }
+              float={"left"}
+              title="Renicance capital public double self employment tax than corporate - Demand of investible income and jobs priced by hour/wage lmao substitute by other market by indifference/utility"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + scrollnum()]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            Hryvnia / Rouble customs here to help? Currency fungible for
+            treasury inventory never lessing royalty, for treasury is vault
+            share already, security depositary receipt, security repository
+            (transaction fee). What good are surrendering-guards anyway?
+          </div>
           the other side of the coin/yr is 11/1 *$2t currency, and now checking
           is $6t; just like the index isn't actually fungible for anything, not
           even by concurrency but absolutely.
