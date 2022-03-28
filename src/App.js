@@ -233,6 +233,7 @@ export default class App extends React.Component {
           maxWidth: "600px"
         }}
       >
+        <h1>65% support occupying wall st to end debt</h1>
         "They do depend on our help."
         {/* Even a charity just funds their producers' */}
         <br />
@@ -384,6 +385,9 @@ export default class App extends React.Component {
         1/3 share debt is mort, corp (
         <span style={{ color: "blue" }}>debenture</span>), tsy; consider the
         index fund doesn't actually own equities of -science/skew
+        <br />
+        <br />
+        65% mortgage, 35% rent, the rest less inventory
       </div>
     );
   }
