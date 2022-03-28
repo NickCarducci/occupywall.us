@@ -436,6 +436,9 @@ export default class App extends React.Component {
           the other side of the coin/yr is 11/1 *$2t currency, and now checking
           is $6t; just like the index isn't actually fungible for anything, not
           even by concurrency but absolutely.
+          <br />
+          <br />- one of the twice worker{space}
+          <a href="https://vaults.biz/party">25-34/45-54</a>
         </div>
       </div>
     );
