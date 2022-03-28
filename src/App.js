@@ -237,11 +237,21 @@ export default class App extends React.Component {
           65% support occupying wall st
           {/**vaults.biz/party, occupywallst.quora.com */} to end debt
         </h1>
-        healthcare not wealthcare, standardized guarantee nor debenture or loan
-        - laborless-demand always target margin if operational monopsony, or
-        11/12 vertical-line-industry mvp duress permit, programattic injunctions
-        of evidence, no bail nor state vic ever, whistleblowers on jury, fine
-        judges for successful appeals.
+        <div
+          style={{
+            backgroundColor: "darkviolet",
+            border: "1px solid",
+            borderRadius: "10px",
+            margin: "10px 4px",
+            padding: "10px"
+          }}
+        >
+          healthcare not wealthcare, standardized guarantee nor debenture or
+          loan - laborless-demand always target margin if operational monopsony,
+          or 11/12 vertical-line-industry mvp duress permit, programattic
+          injunctions of evidence, no bail nor state vic ever, whistleblowers on
+          jury, fine judges for successful appeals.
+        </div>
         <br />
         "They do depend on our help."
         {/* Even a charity just funds their producers' */}
@@ -562,6 +572,30 @@ export default class App extends React.Component {
             front-running with their own money share split ratification by death
             of Donald Trump DUI presented high accident and daily match. crack
             for concentration
+          </div>
+          <br />
+          boycott credit, standardized guarantee scheme and implausible use
+          lease with me, transaction fee banking (
+          <span style={{ color: "darkviolet" }}>
+            security depositary receipt
+          </span>
+          ).
+          <br />
+          <br />
+          <div
+            style={{
+              color: "white",
+              backgroundColor: "darkviolet",
+              border: "1px solid black",
+              borderRadius: "10px",
+              margin: "10px 4px",
+              padding: "10px"
+            }}
+          >
+            DO NOT CASTRATE PEDOPHILES by medicine (risperidone, danger by judge
+            prejudice as beleif can all be yet for 11/12 industry-variable
+            conviction of programatic evidence) - people push people into
+            subways for housing. shut of faggot, you'll see me fuck
           </div>
         </div>
       </div>
