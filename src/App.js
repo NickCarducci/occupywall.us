@@ -35,14 +35,14 @@ export default class App extends React.Component {
       this["scrollImg" + i] = React.createRef();
     }
   }
-  /*componentDidMount = () => {
+  componentDidMount = () => {
     //document.getElementsByTagName("body")[0].style.margin = 0;
     document.body.style.margin = 0;
     window.addEventListener("resize", this.refresh);
     window.addEventListener("scroll", this.handleScroll);
     this.refresh(true);
 
-    onSnapshot(doc(this.state.firestore, "countData", "only"), (doc) => {
+    /* onSnapshot(doc(this.state.firestore, "countData", "only"), (doc) => {
       if (doc.exists()) {
         var foo = doc.data();
         foo.id = doc.id;
@@ -57,7 +57,7 @@ export default class App extends React.Component {
           this.setState({ posts: foo.count });
         }
       });
-    });
+    });*/
   };
   componentWillUnmount = () => {
     document.body.style.margin = null;
@@ -101,7 +101,7 @@ export default class App extends React.Component {
       }, 600);
     }
   };
-  handleSubmit = (e) => {
+  /*handleSubmit = (e) => {
     e.preventDefault();
     if (
       this.state.first !== "" &&
@@ -590,6 +590,22 @@ export default class App extends React.Component {
           ).
           <br />
           <br />
+          <Cable
+            style={{}}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.noyout
+                ? ""
+                : "https://www.youtube.com/embed/WlSVwRaO-iQ?start=884"
+            }
+            float={"left"}
+            title="I interview curtis sliwa on disability fraud, general fund standardized guarantee schemes and implausible use leases and surrendered bid outrights https://youtu.be/WlSVwRaO-iQ?t=884"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           <div
             style={{
               color: "white",
@@ -606,6 +622,14 @@ export default class App extends React.Component {
             subways for housing. shut of faggot, you'll see me fuck, but not
             before I chop off your dick. do you want to watch
           </div>
+          <br />I am talking market liquidity, not{space}
+          <a href="https://www.federalreserve.gov/releases/z1/default.htm">
+            flow of funds
+          </a>
+          {space}nor{space}
+          <a href="https://data.imf.org/?sk=2DFB3380-3603-4D2C-90BE-A04D8BBCE237">
+            liquidity
+          </a>
         </div>
       </div>
     );
