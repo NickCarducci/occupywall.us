@@ -401,7 +401,15 @@ export default class App extends React.Component {
         Demand of investible income and jobs priced by hou/wage lmao substitute
         by other market by indifference/utility
         <br />
-        <div>
+        <div
+          style={{
+            backgroundColor: "lemonchiffon",
+            border: "1px solid",
+            borderRadius: "10px",
+            margin: "10px 4px",
+            padding: "10px"
+          }}
+        >
           Note from the author:
           <br />
           As Senator of NJ I'll reverse amortize the General Fund
