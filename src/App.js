@@ -554,7 +554,8 @@ export default class App extends React.Component {
               padding: "10px"
             }}
           >
-            Global UBI laborless-demand CNN Hospital Fund to the right
+            Global UBI laborless-demand CNN Hospital Fund standardized guarantee
+            scheme to the right
           </div>
         </div>
       </div>
