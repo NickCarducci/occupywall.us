@@ -327,7 +327,10 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        <a href="https://2024nj.com/disability">4x 2.5m</a>
+        <a href="https://2024nj.com/disability">
+          <span style={{ textDecoration: "line-through" }}>4x</span>
+          {space}2.5m
+        </a>
         {space}multiple sclerosis/polio all-cause{space}
         <a href="https://www.christopherreeve.org/living-with-paralysis/stats-about-paralysis">
           nervous
