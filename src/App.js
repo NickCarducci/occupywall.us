@@ -659,6 +659,43 @@ export default class App extends React.Component {
             liquidity
           </a>
         </div>
+        <br />
+        larceny in contract - implausible use (5 condo stores), guar. asc. est
+        consumer frause
+        <div
+          style={{
+            color: "white",
+            backgroundColor: "dimgrey",
+            border: "1px solid",
+            borderRadius: "10px",
+            margin: "10px 4px",
+            padding: "10px"
+          }}
+        >
+          Nick Carducci - Chairperson at Saver Party (2020–present)
+          <br />
+          How does the government increase spending?
+          <br />
+          “More opportunity for more people to stop middle class from getting
+          over the top, immigrations costs nothing.” - Pete King
+          <br />
+          1/3 share mort corp tsy debenture inventory sell before default.
+          <br />
+          Government and structure % of GDP; or GDP-PCE, latter of which
+          includes standardized guarantee loans.
+          <br />
+          +$4t pandemic checking not-fungible/concurrentable for $2t by
+          mortgages, rollover invoices instead, for 1/hour-GDP/p legal
+          reasoning.
+          <br />
+          Mimetic average comparative innocence of hypocrisy aside, foreseeable
+          and donee.
+        </div>
+        "<a href="https://qr.ae/pvyLnQ">I'm not talking about minor crimes</a>,"
+        there is conviction without programmatic evidence reviewable or
+        immediately acquit for jail of unilaterally-known hazard -{space}
+        <a href="https://thumbprint.us">torttech</a>. you deserve to have your
+        throat cut
       </div>
     );
   }
