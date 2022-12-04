@@ -220,7 +220,8 @@ export default class App extends React.Component {
       (window.location.href = `https://${window.location.hostname}/${path.target.id}`);
     const linkyblinky = {
       color: "deepskyblue"
-    };
+    }; //enhance that world and this one by bringing into themselves, eachother.
+    //nascent naivety becoming well, often. Endogeneous integrated, symbiotic system, life.
     return (
       <div
         style={{
@@ -241,7 +242,11 @@ export default class App extends React.Component {
         landlord, lender) projections
         <h1>
           65% support occupying wall st
-          {/**vaults.biz/party, occupywallst.quora.com */} to end debt
+          {/**vaults.biz/party, occupywallst.quora.com */} to end debt (
+          <a href="https://anchor.fm/micro-theory/episodes/Strategic-Voting-with-a-potential-network-effect-and-new-antifinance-alternative-e1qvulq">
+            36% want universal over private-public partership
+          </a>
+          )
         </h1>
         <div
           style={{
