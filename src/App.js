@@ -234,6 +234,10 @@ export default class App extends React.Component {
           maxWidth: "600px"
         }}
       >
+        Aren’t we all complaining here? Prisoner dilemma is{space}
+        <a href="https://saverparty.xyz">terrorism</a>.
+        <br />
+        <br />
         "Climate change improvements and investments," says the judge who is
         trust building, do not use their money nor your own constitutents on the
         state as victim nor defendant, but for the beneficiaries of said
