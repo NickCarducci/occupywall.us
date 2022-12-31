@@ -239,6 +239,8 @@ export default class App extends React.Component {
         <a href="https://thumbprint.quora.com/Did-the-Occupy-Movement-achieve-anything-1">
           thetax.party
         </a>
+        {space}68.85% didn't vote of the occupy supporters. 34% of the 99% are
+        down with it. Well now it's more like 27%
         <br />
         Aren’t we all complaining here? Prisoner dilemma is{space}
         <a href="https://saverparty.xyz">terrorism</a>.
