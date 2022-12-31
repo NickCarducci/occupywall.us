@@ -234,6 +234,12 @@ export default class App extends React.Component {
           maxWidth: "600px"
         }}
       >
+        Should socialists or everyone at 77 WABC drop dead?
+        <br />
+        <a href="https://thumbprint.quora.com/Did-the-Occupy-Movement-achieve-anything-1">
+          thetax.party
+        </a>
+        <br />
         Aren’t we all complaining here? Prisoner dilemma is{space}
         <a href="https://saverparty.xyz">terrorism</a>.
         <br />
