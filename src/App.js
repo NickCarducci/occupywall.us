@@ -409,8 +409,13 @@ export default class App extends React.Component {
         </a>
         , implausible use leases (beyond 5 storefronts and condominiums) instead
         of vertical-industry max-royalty
-        <br />
-        <br />
+        <h3>
+          marginalism.uk - Online can be not harassment, but moreover, generally
+          diplomatic; thumbprint.us, vau.money revenuedata.doi.gov for
+          independent contractor scope of requirements'{space}
+          <span style={{ color: "tan" }}>indemnity</span>
+        </h3>
+        <h2>humanharvest.info, {/*marginalism.uk, */}bankingisnot.biz</h2>
         Obamacare mean inflation works because Healthcare was smaller part in
         financial-less GDP/yr, Supply is not substitutive for Demand because the
         latter is not by labor of any market, ...no quality-skew scapegoated
@@ -730,3 +735,4 @@ export default class App extends React.Component {
     );
   }
 }
+
