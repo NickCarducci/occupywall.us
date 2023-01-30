@@ -706,7 +706,9 @@ export default class App extends React.Component {
             prejudice as beleif can all be yet for 11/12 industry-variable
             conviction of programatic evidence) - people push people into
             subways for housing. shut of faggot, you'll see me fuck, but not
-            before I chop off your dick. do you want to watch
+            before I chop off your dick (Are the same quality people that used
+            to be lobotomized now being involuntarily committed and force fed
+            psychiatric medication?). do you want to watch
           </div>
           <br />I am talking market liquidity, not{space}
           <a href="https://www.federalreserve.gov/releases/z1/default.htm">
