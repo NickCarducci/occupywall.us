@@ -231,7 +231,7 @@ export default class App extends React.Component {
           fontFamily: "arial, sans serif",
           wordBreak: "break-word",
           textAlign: "left",
-          maxWidth: "600px"
+          maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
         <h2>facebook.com/occupynewjersey</h2>
@@ -251,8 +251,10 @@ export default class App extends React.Component {
         <a href="https://thumbprint.quora.com/Did-the-Occupy-Movement-achieve-anything-1">
           thetax.party
         </a>
-        {space}68.85% didn't vote of the occupy supporters. 34% of the 99% are
-        down with it. Well now it's more like 27%
+        {space}68.85% didn't vote of the occupy supporters.{space}
+        <span style={{ color: "firebrick" }}>
+          34% of the 99% are down with it. Well now it's more like 27%
+        </span>
         <br />
         Aren’t we all complaining here? Prisoner dilemma is{space}
         <a href="https://saverparty.xyz">terrorism</a>.
@@ -282,12 +284,18 @@ export default class App extends React.Component {
             padding: "10px"
           }}
         >
-          healthcare not wealthcare, standardized guarantee nor debenture or
-          loan - laborless-demand always target margin if operational monopsony,
-          or 11/12 vertical-line-industry mvp duress permit, programattic
-          injunctions of evidence, no bail nor state vic (tort) ever,
-          whistleblowers on jury (reparations by tort, never 'name-your-price'
-          tool), fine judges for successful appeals.
+          <a
+            href="https://electiontechnology.quora.com/What-is-the-percentage-of-people-who-want-universal-healthcare-1"
+            style={{ color: "white" }}
+          >
+            healthcare not wealthcare
+          </a>
+          , standardized guarantee nor debenture or loan - laborless-demand
+          always target margin if operational monopsony, or 11/12
+          vertical-line-industry mvp duress permit, programattic injunctions of
+          evidence, no bail nor state vic (tort) ever, whistleblowers on jury
+          (reparations by tort, never 'name-your-price' tool), fine judges for
+          successful appeals.
         </div>
         <br />
         "They do depend on our help."
