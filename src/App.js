@@ -234,6 +234,18 @@ export default class App extends React.Component {
           maxWidth: "600px"
         }}
       >
+        <h2>facebook.com/occupynewjersey</h2>
+        <h3>
+          Tax security first -{space}
+          <span style={{ color: "cadetblue" }}>
+            Does an imbalance of supply and demand, incremental share split of
+            treasury currency and money stock, or escrow and either debt or
+            insurance combining budget constraints cause anti-competitive
+            inflation and real inequality?
+          </span>
+        </h3>
+        debt for fallen tax receipts until producer deflation
+        <br />
         Should socialists or everyone at 77 WABC drop dead?
         <br />
         <a href="https://thumbprint.quora.com/Did-the-Occupy-Movement-achieve-anything-1">
@@ -712,7 +724,8 @@ export default class App extends React.Component {
         there is conviction without programmatic evidence reviewable or
         immediately acquit for jail of unilaterally-known hazard -{space}
         <a href="https://thumbprint.us">torttech</a>. you deserve to have your
-        throat cut
+        {space}
+        <a href="https://2024nj.com">throat cut</a>
       </div>
     );
   }
