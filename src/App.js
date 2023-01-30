@@ -244,7 +244,7 @@ export default class App extends React.Component {
             inflation and real inequality?
           </span>
         </h3>
-        debt for fallen tax receipts until producer deflation
+        (the neck) debt for fallen tax receipts until producer deflation
         <br />
         Should socialists or everyone at 77 WABC drop dead?
         <br />
@@ -735,4 +735,3 @@ export default class App extends React.Component {
     );
   }
 }
-
