@@ -703,12 +703,28 @@ export default class App extends React.Component {
             }}
           >
             DO NOT CASTRATE PEDOPHILES by medicine (risperidone, danger by judge
-            prejudice as beleif can all be yet for 11/12 industry-variable
+            prejudice as belief can all be yet for 11/12 industry-variable
             conviction of programatic evidence) - people push people into
-            subways for housing. shut of faggot, you'll see me fuck, but not
-            before I chop off your dick (Are the same quality people that used
-            to be lobotomized now being involuntarily committed and force fed
-            psychiatric medication?). do you want to watch
+            subways "for housing". shut of faggot (tool), you'll see me fuck,
+            but not before I chop off your dick (Are the same quality people
+            that used to be{space}
+            <a
+              style={{ color: "white" }}
+              href="https://medicalsciences.stackexchange.com/questions/31936/given-atherosclerosis-is-caused-by-some-if-not-all-viruses-do-viruses-come-from"
+            >
+              lobotomized
+            </a>
+            {space}now being{space}
+            <a href="https://thumbprint.us">involuntarily committed</a>
+            {space}and{space}
+            <a
+              style={{ color: "white" }}
+              href="https://truthsocial.com/@carducci"
+            >
+              force fed
+            </a>
+            {space}psychiatric medication?). do you{space}
+            <a href="https://humanharvest.info">want to watch</a>
           </div>
           <br />I am talking market liquidity, not{space}
           <a href="https://www.federalreserve.gov/releases/z1/default.htm">
