@@ -412,15 +412,28 @@ export default class App extends React.Component {
         <br />
         PCE-CPI ascertainable by employer contributions to standardized
         guarantee{space}
-        <a href="https://www.bls.gov/osmr/research-papers/2017/st170010.htm">
+        <a
+          href="https://www.bls.gov/osmr/research-papers/2017/st170010.htm"
+          //efforts not game fixed in your favor" - Tim Scott
+        >
           loss
         </a>
         , implausible use leases (beyond 5 storefronts and condominiums) instead
         of vertical-industry max-royalty
         <h3>
           marginalism.uk - Online can be not harassment, but moreover, generally
-          diplomatic; thumbprint.us, vau.money revenuedata.doi.gov for
-          independent contractor scope of requirements'{space}
+          diplomatic; thumbprint.us, vau.money (
+          <i
+            style={{
+              color: "cornflowerblue"
+            }}
+          >
+            Can a trust or nonprofit be formed to volunteer for and donate funds
+            to a material category of industry, friends, as well as mostly
+            family?
+          </i>
+          ) revenuedata.doi.gov for independent contractor scope of
+          requirements'{space}
           <span style={{ color: "tan" }}>indemnity</span>
         </h3>
         <h2>humanharvest.info, {/*marginalism.uk, */}bankingisnot.biz</h2>
