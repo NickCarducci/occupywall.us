@@ -234,8 +234,11 @@ export default class App extends React.Component {
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
-        <h2>facebook.com/occupynewjersey</h2>
-        <h3>
+        Doesn’t the borrower keep the sale proceeds over principal while the
+        lien holders return debt services to the homeowner following the
+        repossession of the property during foreclosure?
+        <h2 style={{ margin: "4px 0px" }}>facebook.com/occupynewjersey</h2>
+        <h3 style={{ margin: "4px 0px" }}>
           Tax security first -{space}
           <span style={{ color: "cadetblue" }}>
             Does an imbalance of supply and demand, incremental share split of
@@ -244,6 +247,7 @@ export default class App extends React.Component {
             inflation and real inequality?
           </span>
         </h3>
+        <br />
         (the neck) debt for fallen tax receipts until producer deflation
         <br />
         Should socialists or everyone at 77 WABC drop dead?
