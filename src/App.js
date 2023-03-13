@@ -1,6 +1,6 @@
 import React from "react";
 import Cable from "./Dropwire";
-//import TwitterTweetEmbed from "./TwitterTweetEmbed";
+import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
 /*import firebase from "./init-firebase.js";
 import {
@@ -234,6 +234,13 @@ export default class App extends React.Component {
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
+        <TwitterTweetEmbed
+          style={{
+            overflowX: "auto"
+          }}
+          key="1635086547640012801"
+          tweetId="1635086547640012801"
+        />
         Doesn’t the borrower keep the sale proceeds over principal while the
         lien holders return debt services to the homeowner following the
         repossession of the property during foreclosure?
