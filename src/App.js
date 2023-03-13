@@ -234,6 +234,10 @@ export default class App extends React.Component {
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
+        Do you agree with Joe Biden that continuing to allow banks to lend
+        deposits is a tort solution that protects workers’, small businesses’
+        and taxpayers’ banking system or just the financial system? (Tangible
+        hobbies)
         <TwitterTweetEmbed
           style={{
             overflowX: "auto"
