@@ -234,6 +234,12 @@ export default class App extends React.Component {
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
+        Defendants usually make insurance.
+        <br />
+        Unemployment benefits are for paycheck protection.
+        <h4 style={{ margin: "4px 0px" }}>
+          Deflation tax cuts and recession tax hikes
+        </h4>
         Has the federal reserve ever bought short-term bills and instead allowed
         bond holders to face the bank run? Do websites track you across the web
         because of JavaScript or Apple and Android?
@@ -809,3 +815,4 @@ export default class App extends React.Component {
     );
   }
 }
+
