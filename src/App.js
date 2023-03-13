@@ -234,6 +234,9 @@ export default class App extends React.Component {
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
+        Do websites track you across the web because of JavaScript or Apple and
+        Android?
+        <br />
         <b style={{ color: "tan" }}>
           Does a wage, gig, or self-employed person that works for advances of
           nonsale money need to make final goods primarily held for sale in
@@ -243,8 +246,14 @@ export default class App extends React.Component {
         <br />
         Do you agree with Joe Biden that continuing to allow banks to lend
         deposits is a tort solution that protects workers’, small businesses’
-        and taxpayers’ banking system or just the financial system? (Tangible
-        hobbies)
+        and taxpayers’ banking system or just the financial system? (
+        <a
+          style={{ color: "dodgerblue" }}
+          href="https://census.quora.com/What-causes-labor-shortages-in-some-places-but-not-others-1"
+        >
+          Tangible hobbies
+        </a>
+        )
         <TwitterTweetEmbed
           style={{
             overflowX: "auto"
