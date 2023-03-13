@@ -234,8 +234,9 @@ export default class App extends React.Component {
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
-        Do websites track you across the web because of JavaScript or Apple and
-        Android?
+        Has the federal reserve ever bought short-term bills and instead allowed
+        bond holders to face the bank run? Do websites track you across the web
+        because of JavaScript or Apple and Android?
         <br />
         <b style={{ color: "tan" }}>
           Does a wage, gig, or self-employed person that works for advances of
