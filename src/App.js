@@ -234,6 +234,22 @@ export default class App extends React.Component {
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
+        Poverty resets annually and is deflation so how tf does it prohibit
+        education?
+        <TwitterTweetEmbed
+          style={{
+            overflowX: "auto"
+          }}
+          key="1635073479417696256"
+          tweetId="1635073479417696256"
+        />
+        <b>Risk free banking, advances and intertemporal invoices.</b>
+        <br />
+        Fraud-protected advances and intertemporal claims aren’t marginal like
+        stop-loss bets, given a commercially-objective minimal viable duress
+        tort reform legislation. Do Democrats and Republicans or libertarians
+        want free markets? Is a no holds barred market or communism liberated?
+        <br />
         <h3 style={{ float: "right", margin: "4px 0px" }}>vau.money</h3>I think
         shrinkflation and material waste by unflattering growth and net exports
         for developed countries is RETARDED{space}
