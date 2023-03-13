@@ -234,6 +234,13 @@ export default class App extends React.Component {
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
+        <b style={{ color: "tan" }}>
+          Does a wage, gig, or self-employed person that works for advances of
+          nonsale money need to make final goods primarily held for sale in
+          order to not invoke consumer fraud protection for subpar to poor
+          performance?
+        </b>
+        <br />
         Do you agree with Joe Biden that continuing to allow banks to lend
         deposits is a tort solution that protects workers’, small businesses’
         and taxpayers’ banking system or just the financial system? (Tangible
