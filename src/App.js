@@ -234,9 +234,55 @@ export default class App extends React.Component {
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
-        Defendants usually make insurance.
+        <h3 style={{ float: "right", margin: "4px 0px" }}>vau.money</h3>I think
+        shrinkflation and material waste by unflattering growth and net exports
+        for developed countries is RETARDED{space}
+        <i style={{ color: "grey" }}>
+          (Lawrence ball DIE,{space}
+          <span style={{ color: "lightslategray" }}>
+            "We have argued that a rise (e.g.) in the market rate of interest
+            upsets the balance between the value of investment and saving,
+            unless a corresponding rise in the natural rate occurs at the same
+            time. It may do this either by stimulating saving or by retarding
+            investment." John Maynard Keynes,{space}
+            <i>A Treatise on Money</i>, 1930
+          </span>
+          ). I can teach JHU econ department by pointing people to BEA national
+          tables.
+          {space}
+          <span style={{ color: "navy" }}>
+            Starve inflation any means of equal veracity is self defense, no
+            matter how old you are as the victim.
+          </span>
+          {space}Extending credit is good how? Tax cut deflation and recession
+          tax hike or die.
+          {space}
+          <span style={{ color: "navy" }}>
+            Human rights declaration is a war permit after all.
+          </span>
+          {space}
+          <span style={{ color: "cornflowerblue" }}>
+            Pay debt annually is constitutional article 1.8 everything else is
+            treason.
+          </span>
+        </i>
+        {space}
+        The U.S. can retire their seat at the un
         <br />
-        Unemployment benefits are for paycheck protection.
+        <br />
+        Doesn’t a credit score measure intentions for and predict either profit
+        from a hobby for concurrent industry payday loans, renting, liens, and
+        limited family testamentary partnership debts? How does a bank run at
+        one bank harm depositors at other banks? Isn’t the government guilty for
+        allowing deposits to be loaned in the first place? Defendants usually
+        make insurance.
+        <br />
+        The Republican Party bails out paychecks lol don’t be a hypocrite on
+        bank. Make me king risk free banking (
+        <a href="https://vaults.biz/money">
+          Unemployment benefits are for paycheck protection
+        </a>
+        ).
         <h4 style={{ margin: "4px 0px" }}>
           Deflation tax cuts and recession tax hikes
         </h4>
@@ -815,4 +861,3 @@ export default class App extends React.Component {
     );
   }
 }
-
