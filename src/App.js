@@ -313,7 +313,12 @@ export default class App extends React.Component {
           to people that are now dead?
         </i>
         {space}
-        <i>Do banks technically need to lend deposits to operate?</i>
+        <i style={{ color: "tan" }}>
+          Do banks technically need to lend deposits to operate?
+        </i>
+        {space}If people need income to live, are bank bailouts because of
+        bankruptcies and subpar inflation-adjusted foreclosure instead of either
+        deferring or reversing?
         <br />
         <b>Risk free banking, advances and intertemporal invoices.</b>
         <br />
