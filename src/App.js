@@ -232,8 +232,38 @@ export default class App extends React.Component {
           wordBreak: "break-word",
           textAlign: "left",
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
+          //need an enemy; yikes
         }}
       >
+        <span style={{ fontSize: "12px" }}>
+          Foreign policy doctrine for populists: direct foreign imports for rich
+          countries (saverparty.xyz, commie.dev)
+        </span>
+        <div style={{ padding: "10px", margin: "10px" }}>
+          “Foreclosures have nothing to do with the banks capital gains or
+          losses. The foreclosure action is the legal action to end bad debt as
+          uncollected fir the investors of that loan[.] When the property goes
+          to the [f]oreclosure sale or auction in most[ ]states[,] the opening
+          [either] bid or price is what was owed on the note plus fees, taxes[,]
+          and interest. Then[,] the local investors bid more. Yet still below
+          market value.” (Thomas Bohlmann, Realtor in NC,{space}
+          <i>
+            Answer to{space}
+            <a href="https://www.quora.com/Can-foreclosures-withhold-sales-and-incur-equity-capital-losses-until-home-prices-rise-to-the-lenders-liking/answer/Thomas-Bohlmann-1">
+              Can foreclosures withhold sales and incur equity capital losses
+              until home prices rise to the lender's liking?
+            </a>
+          </i>
+          , 355k answer views)
+        </div>
+        If a lender forecloses on a homeowner, how soon after do they have to
+        liquidate the property until the home is remitted to the borrower again?
+        Should the lender be able to show the home at most once a week to pay
+        the remainder or return principal? (((Is the onus to resolve a
+        delinquent loan on borrower debt service interest or lender speculation
+        risk?)))
+        <br />
+        <br />
         <h4 style={{ float: "left", margin: "6px 10px" }}>vau.money</h4>
         <span>
           Does working from home improve ratings and all else remains equal?
