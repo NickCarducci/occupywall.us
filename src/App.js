@@ -362,6 +362,11 @@ export default class App extends React.Component {
         </span>
         . #mitosis #ClimateAction
         <br />
+        <span style={{ color: "chocolate" }}>
+          Do vaccines work, or are multiple sclerosis and paralytic polio
+          covalent through time?
+        </span>
+        {space}
         <h3 style={{ float: "right", margin: "4px 0px" }}>vaults.biz/money</h3>I
         think shrinkflation and material waste by unflattering growth and net
         exports for developed countries is RETARDED{space}
