@@ -234,18 +234,35 @@ export default class App extends React.Component {
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
-        <h4>
+        <h5>
           Can you get unemployment benefits when your company chooses a better
-          hire?
-        </h4>
-        Should banks continue to be allowed to lend for general interest on
-        collateral? How about not lending deposits in the first place? The laws
-        against surrendering others’ freedom already exist.
-        <br />
-        <br />
-        Poverty resets annually and is deflation so how tf does it prohibit
-        {space}
-        <a href="https://2024nj.com/bachelors">education</a>?
+          hire?{space}
+          <span style={{ color: "grey" }}>
+            <i>How do bank bailouts and employee retention credits differ?</i>
+          </span>
+          {space}Are bank reserves checkable deposits or either currency and/or
+          FedCash balances? Don’t either subpar sales or bankruptcies cause bank
+          failures? Should banks continue to be allowed to lend for general
+          interest on collateral?{space}
+          <span style={{ color: "firebrick" }}>
+            Do banks fail when borrowers pass away? How do banks fail from
+            multiple borrowers? Do they all pass away or do they use FDIC for
+            fraud? Should you pay debt or claim force majeure?
+          </span>
+          {space}
+          <i>
+            <a
+              style={{ color: "cornflowerblue" }}
+              href="https://multilevelcapital.com"
+            >
+              Aren't intermediate business invoices garnishable while advances
+              are subject to consumer fraud protection liability?
+            </a>
+          </i>
+          {space}
+          If banks can still lend deposits, how could the deregulation of
+          Dodd-Frank in 2018 cause SVB to fail?
+        </h5>
         <TwitterTweetEmbed
           style={{
             overflowX: "auto"
@@ -253,10 +270,15 @@ export default class App extends React.Component {
           key="1635073479417696256"
           tweetId="1635073479417696256"
         />
-        How do banks fail from multiple borrowers? Do they all pass away or do
-        they use FDIC for fraud? Do banks fail when borrowers pass away? Did the
-        banks that failed and were bailed out by FDIC insurance lend to people
-        that are now dead?
+        Should banks continue to be allowed to lend for general interest on
+        collateral? How about not lending deposits in the first place? The laws
+        against surrendering others’ freedom already exist.{space}
+        <i>
+          Did the banks that failed and were bailed out by FDIC insurance lend
+          to people that are now dead?
+        </i>
+        {space}
+        <i>Do banks technically need to lend deposits to operate?</i>
         <br />
         <b>Risk free banking, advances and intertemporal invoices.</b>
         <br />
@@ -264,7 +286,11 @@ export default class App extends React.Component {
         stop-loss bets, given a commercially-objective minimal viable duress
         tort reform legislation. Do Democrats and Republicans or libertarians
         want free markets? Is a no holds barred market or communism liberated?
-        <br />
+        <h4>
+          Poverty resets annually and is deflation so how tf does it prohibit
+          {space}
+          <a href="https://2024nj.com/bachelors">education</a>?
+        </h4>
         <h3 style={{ float: "right", margin: "4px 0px" }}>vau.money</h3>I think
         shrinkflation and material waste by unflattering growth and net exports
         for developed countries is RETARDED{space}
