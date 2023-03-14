@@ -240,10 +240,21 @@ export default class App extends React.Component {
           <span style={{ color: "grey" }}>
             <i>How do bank bailouts and employee retention credits differ?</i>
           </span>
-          {space}Are bank reserves checkable deposits or either currency and/or
-          FedCash balances? Don’t either subpar sales or bankruptcies cause bank
-          failures? Should banks continue to be allowed to lend for general
-          interest on collateral?{space}
+          {space}
+          <span style={{ color: "tan" }}>
+            Are bank reserves checkable deposits or either currency and/or
+            FedCash balances?
+          </span>
+          {space}
+          <span style={{ color: "darkviolet" }}>
+            Don’t either subpar sales or bankruptcies cause bank failures?
+          </span>
+          {space}
+          <a style={{ color: "black" }} href="https://commie.dev">
+            Should banks continue to be allowed to lend for general interest on
+            collateral?
+          </a>
+          {space}
           <span style={{ color: "firebrick" }}>
             Do banks fail when borrowers pass away? How do banks fail from
             multiple borrowers? Do they all pass away or do they use FDIC for
@@ -261,7 +272,11 @@ export default class App extends React.Component {
           </i>
           {space}
           If banks can still lend deposits, how could the deregulation of
-          Dodd-Frank in 2018 cause SVB to fail?
+          Dodd-Frank in 2018 cause SVB to fail? (
+          <a href="https://twitter.com/saverparty" style={{ color: "#1DA1F2" }}>
+            saverparty.xyz
+          </a>
+          )
         </h5>
         <TwitterTweetEmbed
           style={{
@@ -270,9 +285,9 @@ export default class App extends React.Component {
           key="1635073479417696256"
           tweetId="1635073479417696256"
         />
-        Should banks continue to be allowed to lend for general interest on
-        collateral? How about not lending deposits in the first place? The laws
-        against surrendering others’ freedom already exist.{space}
+        How about not lending deposits in the first place? (tort reform
+        2024nj.com) The laws against surrendering others’ freedom already exist.
+        {space}
         <i>
           Did the banks that failed and were bailed out by FDIC insurance lend
           to people that are now dead?
