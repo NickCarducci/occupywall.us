@@ -255,6 +255,9 @@ export default class App extends React.Component {
             collateral?
           </a>
           {space}
+          <h4 style={{ float: "right", margin: "6px 0px" }}>
+            browserglass.com
+          </h4>
           <span style={{ color: "firebrick" }}>
             Do banks fail when borrowers pass away? How do banks fail from
             multiple borrowers? Do they all pass away or do they use FDIC for
@@ -286,6 +289,7 @@ export default class App extends React.Component {
           tweetId="1635073479417696256"
         />
         How about not lending deposits in the first place? (tort reform
+        {/*redo */ space}
         2024nj.com) The laws against surrendering others’ freedom already exist.
         {space}
         <i>
@@ -316,7 +320,17 @@ export default class App extends React.Component {
             upsets the balance between the value of investment and saving,
             unless a corresponding rise in the natural rate occurs at the same
             time. It may do this either by stimulating saving or by retarding
-            investment." John Maynard Keynes,{space}
+            investment."{space}
+            <h4
+              style={{
+                float: "left",
+                margin: "4px 10px",
+                color: "forestgreen"
+              }}
+            >
+              micro-theory.com
+            </h4>
+            John Maynard Keynes,{space}
             <i>A Treatise on Money</i>, 1930
           </span>
           ). I can teach JHU econ department by pointing people to BEA national
