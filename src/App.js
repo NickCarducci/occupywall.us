@@ -249,6 +249,11 @@ export default class App extends React.Component {
           key="1635073479417696256"
           tweetId="1635073479417696256"
         />
+        How do banks fail from multiple borrowers? Do they all pass away or do
+        they use FDIC for fraud? Do banks fail when borrowers pass away? Did the
+        banks that failed and were bailed out by FDIC insurance lend to people
+        that are now dead?
+        <br />
         <b>Risk free banking, advances and intertemporal invoices.</b>
         <br />
         Fraud-protected advances and intertemporal claims aren’t marginal like
