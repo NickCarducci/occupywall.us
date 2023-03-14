@@ -292,6 +292,9 @@ export default class App extends React.Component {
           key="1635073479417696256"
           tweetId="1635073479417696256"
         />
+        <h4 style={{ float: "left", margin: "6px 10px" }}>
+          taxsecurityfirst.com
+        </h4>
         How about not lending deposits in the first place? (tort reform
         {/*redo */ space}
         2024nj.com) The laws against surrendering others’ freedom already exist.
@@ -360,13 +363,16 @@ export default class App extends React.Component {
         The U.S. can retire their seat at the un
         <br />
         <br />
-        Doesn’t a credit score measure intentions for and predict either profit
-        from a hobby for concurrent industry payday loans, renting, liens, and
-        limited family testamentary partnership debts? How does a bank run at
-        one bank harm depositors at other banks? Isn’t the government guilty for
-        allowing deposits to be loaned in the first place? Defendants usually
-        make insurance.
+        <i style={{ color: "grey", fontSize: "12px" }}>
+          Doesn’t a credit score measure intentions for and predict either
+          profit from a hobby for concurrent industry payday loans, renting,
+          liens, and limited family testamentary partnership debts? How does a
+          bank run at one bank harm depositors at other banks? Isn’t the
+          government guilty for allowing deposits to be loaned in the first
+          place? Defendants usually make insurance.
+        </i>
         <br />
+        <h3 style={{ float: "right", margin: "4px 0px" }}>commie.dev</h3>
         The Republican Party bails out paychecks lol don’t be a hypocrite on
         bank. Make me king risk free banking (
         <a href="https://vaults.biz/money">
