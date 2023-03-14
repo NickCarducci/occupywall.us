@@ -259,6 +259,12 @@ export default class App extends React.Component {
             collateral?
           </a>
           {space}
+          <i style={{ color: "seagreen" }}>
+            Doesn’t the borrower keep the sale proceeds over principal while the
+            lien holders return debt services to the homeowner following the
+            repossession of the property during foreclosure?
+          </i>
+          {space}
           <h4 style={{ float: "right", margin: "6px 0px" }}>
             browserglass.com
           </h4>
@@ -297,7 +303,10 @@ export default class App extends React.Component {
         </h4>
         How about not lending deposits in the first place? (tort reform
         {/*redo */ space}
-        2024nj.com) The laws against surrendering others’ freedom already exist.
+        2024nj.com){space}
+        <span style={{ color: "cornflowerblue" }}>
+          The laws against surrendering others’ freedom already exist.
+        </span>
         {space}
         <i>
           Did the banks that failed and were bailed out by FDIC insurance lend
@@ -308,12 +317,14 @@ export default class App extends React.Component {
         <br />
         <b>Risk free banking, advances and intertemporal invoices.</b>
         <br />
-        Fraud-protected advances and intertemporal claims aren’t marginal like
-        stop-loss bets, given a commercially-objective minimal viable duress
-        tort reform legislation. Do Democrats and Republicans or libertarians
-        want free markets? Is a no holds barred market or communism liberated?
-        <h4>
-          Poverty resets annually and is deflation so how tf does it prohibit
+        <i style={{ color: "grey", fontSize: "12px" }}>
+          Fraud-protected advances and intertemporal claims aren’t marginal like
+          stop-loss bets, given a commercially-objective minimal viable duress
+          tort reform legislation. Do Democrats and Republicans or libertarians
+          want free markets? Is a no holds barred market or communism liberated?
+        </i>
+        <h4 style={{ margin: "4px 0px" }}>
+          Poverty resets annually and is deflation so how (tf) does it prohibit
           {space}
           <a href="https://2024nj.com/bachelors">education</a>?
         </h4>
@@ -364,12 +375,14 @@ export default class App extends React.Component {
         <br />
         <br />
         <i style={{ color: "grey", fontSize: "12px" }}>
-          Doesn’t a credit score measure intentions for and predict either
-          profit from a hobby for concurrent industry payday loans, renting,
-          liens, and limited family testamentary partnership debts? How does a
-          bank run at one bank harm depositors at other banks? Isn’t the
-          government guilty for allowing deposits to be loaned in the first
-          place? Defendants usually make insurance.
+          <span style={{ color: "seagreen" }}>
+            Doesn’t a credit score measure intentions for and predict either
+            profit from a hobby for concurrent industry payday loans, renting,
+            liens, and limited family testamentary partnership debts?
+          </span>
+          {space}How does a bank run at one bank harm depositors at other banks?
+          Isn’t the government guilty for allowing deposits to be loaned in the
+          first place? Defendants usually make insurance.
         </i>
         <br />
         <h3 style={{ float: "right", margin: "4px 0px" }}>commie.dev</h3>
@@ -410,9 +423,6 @@ export default class App extends React.Component {
           key="1635086547640012801"
           tweetId="1635086547640012801"
         />
-        Doesn’t the borrower keep the sale proceeds over principal while the
-        lien holders return debt services to the homeowner following the
-        repossession of the property during foreclosure?
         <h2 style={{ margin: "4px 0px" }}>facebook.com/occupynewjersey</h2>
         <h3 style={{ margin: "4px 0px" }}>
           Tax security first -{space}
