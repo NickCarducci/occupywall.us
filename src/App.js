@@ -323,11 +323,29 @@ export default class App extends React.Component {
           tort reform legislation. Do Democrats and Republicans or libertarians
           want free markets? Is a no holds barred market or communism liberated?
         </i>
-        <h4 style={{ margin: "4px 0px" }}>
+        <h4
+          style={{ margin: "4px 0px" }}
+          //center float can span the center by word length
+        >
           Poverty resets annually and is deflation so how (tf) does it prohibit
           {space}
+          <span style={{ float: "left", margin: "6px 10px" }}>
+            humanharvest.info
+          </span>
           <a href="https://2024nj.com/bachelors">education</a>?
         </h4>
+        Poverty literally is deflation globally, resets to inflation in the
+        U.S., and the earth oscillates{space}
+        <span role="img" aria-label="saturn">
+          🪐
+        </span>
+        . You think carbon magnifies the sun’s rays, and likely then too that
+        virus zombie-physiology is more genealogical than atherosclerosis{space}
+        <span role="img" aria-label="zombie">
+          🧟
+        </span>
+        . #mitosis #ClimateAction
+        <br />
         <h3 style={{ float: "right", margin: "4px 0px" }}>vaults.biz/money</h3>I
         think shrinkflation and material waste by unflattering growth and net
         exports for developed countries is RETARDED{space}
