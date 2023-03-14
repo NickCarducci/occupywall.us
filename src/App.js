@@ -234,6 +234,10 @@ export default class App extends React.Component {
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
+        <h4>
+          Can you get unemployment benefits when your company chooses a better
+          hire?
+        </h4>
         Should banks continue to be allowed to lend for general interest on
         collateral? How about not lending deposits in the first place? The laws
         against surrendering others’ freedom already exist.
