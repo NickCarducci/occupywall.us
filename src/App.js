@@ -317,8 +317,19 @@ export default class App extends React.Component {
           Do banks technically need to lend deposits to operate?
         </i>
         {space}If people need income to live, are bank bailouts because of
-        bankruptcies and subpar inflation-adjusted foreclosure instead of either
-        deferring or reversing?
+        bankruptcies and subpar inflation-adjusted{space}
+        <h3 style={{ float: "right", margin: "4px 0px" }}>
+          multilevelcapital.com
+        </h3>
+        foreclosure instead of either deferring or reversing?{space}
+        <i>
+          How can they afford housing, food, transportation, etc.?{" "}
+          {
+            /*That last
+            postscript is politics not law Or is it?*/
+            //- And the K.O.
+          }
+        </i>
         <br />
         <b>Risk free banking, advances and intertemporal invoices.</b>
         <br />
