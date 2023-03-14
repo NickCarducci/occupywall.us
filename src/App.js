@@ -234,8 +234,14 @@ export default class App extends React.Component {
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
+        Should banks continue to be allowed to lend for general interest on
+        collateral? How about not lending deposits in the first place? The laws
+        against surrendering others’ freedom already exist.
+        <br />
+        <br />
         Poverty resets annually and is deflation so how tf does it prohibit
-        education?
+        {space}
+        <a href="https://2024nj.com/bachelors">education</a>?
         <TwitterTweetEmbed
           style={{
             overflowX: "auto"
