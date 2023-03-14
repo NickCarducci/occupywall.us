@@ -234,6 +234,10 @@ export default class App extends React.Component {
           maxWidth: "600px" //​Armageddon is when we realize hell is just dying and heaven is here if we wanna
         }}
       >
+        <h4 style={{ float: "left", margin: "6px 10px" }}>vau.money</h4>
+        <span>
+          Does working from home improve ratings and all else remains equal?
+        </span>
         <h5>
           Can you get unemployment benefits when your company chooses a better
           hire?{space}
@@ -310,9 +314,9 @@ export default class App extends React.Component {
           {space}
           <a href="https://2024nj.com/bachelors">education</a>?
         </h4>
-        <h3 style={{ float: "right", margin: "4px 0px" }}>vau.money</h3>I think
-        shrinkflation and material waste by unflattering growth and net exports
-        for developed countries is RETARDED{space}
+        <h3 style={{ float: "right", margin: "4px 0px" }}>vaults.biz/money</h3>I
+        think shrinkflation and material waste by unflattering growth and net
+        exports for developed countries is RETARDED{space}
         <i style={{ color: "grey" }}>
           (Lawrence ball DIE,{space}
           <span style={{ color: "lightslategray" }}>
