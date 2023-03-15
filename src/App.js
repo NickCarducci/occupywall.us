@@ -425,7 +425,7 @@ export default class App extends React.Component {
                 color: "forestgreen"
               }}
             >
-              micro-theory.com
+              [microtheory,realecon].quora.com
             </h4>
             John Maynard Keynes,{space}
             <i>A Treatise on Money</i>, 1930
@@ -502,6 +502,9 @@ export default class App extends React.Component {
           key="1635086547640012801"
           tweetId="1635086547640012801"
         />
+        Is disability insurance or are unemployment benefits and employment
+        retention credits more corrupt? 2024nj.com (TaxSecurityFirst.com for
+        Risk-Free Banking, Dollar interior vote commie.dev/police)
         <h2 style={{ margin: "4px 0px" }}>facebook.com/occupynewjersey</h2>
         <h3 style={{ margin: "4px 0px" }}>
           Tax security first -{space}
@@ -511,6 +514,8 @@ export default class App extends React.Component {
             insurance combining budget constraints cause anti-competitive
             inflation and real inequality?
           </span>
+          {space}
+          <span style={{ fontSize: "12px" }}>micro-theory.com</span>
         </h3>
         <br />
         (the neck) debt for fallen tax receipts until producer deflation
@@ -1046,3 +1051,4 @@ export default class App extends React.Component {
     );
   }
 }
+
