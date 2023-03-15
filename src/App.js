@@ -235,6 +235,12 @@ export default class App extends React.Component {
           //need an enemy; yikes
         }}
       >
+        <h4 style={{ margin: "4px 0px" }}>
+          Does the government bailout and stipend to make whole and recover the
+          injured and traumatized, everyone, or only public companies, deposits'
+          bankruptcies, and private employees' either net operational gain or
+          further-loss falls?
+        </h4>
         <span style={{ fontSize: "12px" }}>
           Foreign policy doctrine for populists: direct foreign imports for rich
           countries (saverparty.xyz, commie.dev)
@@ -1051,4 +1057,3 @@ export default class App extends React.Component {
     );
   }
 }
-
