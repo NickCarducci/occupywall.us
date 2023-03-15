@@ -261,9 +261,19 @@ export default class App extends React.Component {
         Should the lender be able to show the home at most once a week to pay
         the remainder or return principal? (((Is the onus to resolve a
         delinquent loan on borrower debt service interest or lender speculation
-        risk?)))
-        <br />
-        <br />
+        risk?))){/*Nietzsche after the Pale and Odessa pogroms */ space}
+        saverparty.xyz
+        {/*saverparty.xyz Panic happens when either bankruptcies or checkable deposits to FedCash
+        currency do. @CreditSuisse cannot simply foreclose on equity like
+        they’re the owner instead of the realtor.
+        #FinancialMarketsAndInstitutions.*/}
+        <TwitterTweetEmbed
+          style={{
+            overflowX: "auto"
+          }}
+          key="1636097450589995008"
+          tweetId="1636097450589995008"
+        />
         <h4 style={{ float: "left", margin: "6px 10px" }}>vau.money</h4>
         <span>
           Does working from home improve ratings and all else remains equal?
