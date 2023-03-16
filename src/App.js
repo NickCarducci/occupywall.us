@@ -235,6 +235,12 @@ export default class App extends React.Component {
           //need an enemy; yikes
         }}
       >
+        <h2>
+          Should banks be forced to take fees instead of lend deposits
+          intertemporally for complementary demand and substitutive supply, the
+          absence of an alternative, or either extra viable product duress
+          and/or general interest multi level capital?
+        </h2>
         Doesn't banking the unbanked require everyone to have a FedCash account?
         {space}
         <i>
