@@ -235,6 +235,10 @@ export default class App extends React.Component {
           //need an enemy; yikes
         }}
       >
+        <h4>
+          Are financiers delusional or fraudulent planners? Isn't a jigger
+          synonymous with a sellout?
+        </h4>
         Do you prefer multi-level capital or immediate stock commerce?
         <h2>
           Should{space}
