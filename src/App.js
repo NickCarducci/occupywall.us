@@ -241,6 +241,7 @@ export default class App extends React.Component {
           Is a threat as a verbal preemptive strike in self-defense as it's the
           same veracity as the warned either criminal or dangerous perpetration
           by the otherwise victim legal for government or individuals to do?
+          Don't cops punish while threats prevent crime?
         </i>
         <h4>
           Are financiers delusional or fraudulent planners? Isn't a jigger
@@ -1189,4 +1190,3 @@ export default class App extends React.Component {
     );
   }
 }
-
