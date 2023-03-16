@@ -250,6 +250,12 @@ export default class App extends React.Component {
           absence of an alternative, or either extra viable product duress
           (exclusion) and/or general interest multi level capital (accounts)?
         </h2>
+        <i style={{ fontSize: "12px" }}>
+          if I think exclusion causes more death than voluntary drug use, so if
+          I disagree with these people enough to threaten them to stop the harm,
+          am I a terrorist organization
+        </i>
+        <hr />
         Doesn't banking the unbanked require everyone to have a FedCash account?
         {space}
         <i>
