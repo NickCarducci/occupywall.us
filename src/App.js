@@ -254,7 +254,15 @@ export default class App extends React.Component {
             {space}factor.
           </span>
         </h1>
-        Do you prefer multi-level capital or immediate stock commerce?
+        Do you prefer multi-level capital or immediate stock commerce?{space}
+        <b style={{ color: "tan" }}>
+          Should advanced nonsale purchases and invoices of work done continue
+          {space}
+          <h4 style={{ float: "right", color: "chocolate", margin: "4px 0px" }}>
+            (scopes.cc)
+          </h4>
+          to be guaranteed by the government or should only final goods be sold?
+        </b>
         <h2>
           Should{space}
           <span
