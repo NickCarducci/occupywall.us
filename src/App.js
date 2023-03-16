@@ -1120,9 +1120,11 @@ export default class App extends React.Component {
             bond yields usually if not always discounted because of foreseen
             defaults and so fraudulently planned for?
           </span>
-          {space}Are immediate commercial account transactions or either general
-          interest multi level capital securities and/or extra viable product
-          duress exclusionary?{space}
+          {space}
+          <b style={{ float: "left", margin: "4px" }}>commie.dev/police</b>Are
+          immediate commercial account transactions or either general interest
+          multi level capital securities and/or extra viable product duress
+          exclusionary?{space}
           <span style={{ color: "indianred" }}>
             Are current banks that lend deposits instead of take fees to operate
             halal or fully haram against cash-current non-responsive third party
