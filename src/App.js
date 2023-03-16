@@ -240,9 +240,19 @@ export default class App extends React.Component {
           synonymous with a sellout?
         </h4>
         <h1>
-          Vau.money - Codify debt by{space}
-          <span style={{ fontSize: "12px" }}>(current)</span>
-          {space}factor.
+          Vau.money -{space}
+          <span style={{ fontSize: "22px" }}>
+            Codify{space}
+            <span style={{ fontSize: "12px" }}>(variable capital)</span>
+            {space}debt by{space}
+            <span
+              style={{ fontSize: "12px" }}
+              //real
+            >
+              (current)
+            </span>
+            {space}factor.
+          </span>
         </h1>
         Do you prefer multi-level capital or immediate stock commerce?
         <h2>
@@ -318,7 +328,7 @@ export default class App extends React.Component {
           key="1636097450589995008"
           tweetId="1636097450589995008"
         />
-        <h4 style={{ float: "left", margin: "6px 10px" }}>vau.money</h4>
+        <h4 style={{ float: "left", margin: "6px 10px" }}>realvelocity.asia</h4>
         <span>
           Does working from home improve ratings and all else remains equal?
         </span>
