@@ -235,7 +235,13 @@ export default class App extends React.Component {
           //need an enemy; yikes
         }}
       >
-        “listen, this is mine right now”{/*Illinois v Arkansas 2023 TBS */}
+        “listen, this is mine right now”
+        {/*Illinois v Arkansas 2023 TBS */ space}
+        <i>
+          Is a threat as a verbal preemptive strike in self-defense as it's the
+          same veracity as the warned either criminal or dangerous perpetration
+          by the otherwise victim legal for government or individuals to do?
+        </i>
         <h4>
           Are financiers delusional or fraudulent planners? Isn't a jigger
           synonymous with a sellout?
@@ -1183,3 +1189,4 @@ export default class App extends React.Component {
     );
   }
 }
+
