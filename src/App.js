@@ -580,11 +580,13 @@ export default class App extends React.Component {
         <span style={{ color: "firebrick" }}>
           34% of the 99% are down with it. Well now it's more like{space}
           <span style={{ textDecoration: "line-through" }}>27%</span>
-          {space}10%; 47% don't want any insurance, even for medics.
+          {space}10%; 47% don't want any insurance, even for medics
+          (multilevelcapital.com).
         </span>
-        . Was the $7t additional checkable deposits spent after 2019 mostly on
-        continuing unemployment benefit claims, the paycheck protection program,
-        build back better, or general regular government expenditure increases?
+        {space}Was the $7t additional checkable deposits spent after 2019 mostly
+        on continuing unemployment benefit claims, the paycheck protection
+        program, build back better, or general regular government expenditure
+        increases?
         <br />
         Aren’t we all complaining here? Prisoner dilemma is{space}
         <a href="https://saverparty.xyz">terrorism</a>.
