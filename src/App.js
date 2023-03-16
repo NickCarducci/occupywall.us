@@ -239,7 +239,11 @@ export default class App extends React.Component {
           Are financiers delusional or fraudulent planners? Isn't a jigger
           synonymous with a sellout?
         </h4>
-        <h1>Vau.money - Codify debt by factor.</h1>
+        <h1>
+          Vau.money - Codify debt by{space}
+          <span style={{ fontSize: "12px" }}>(current)</span>
+          {space}factor.
+        </h1>
         Do you prefer multi-level capital or immediate stock commerce?
         <h2>
           Should{space}
