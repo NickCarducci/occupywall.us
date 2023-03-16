@@ -349,7 +349,7 @@ export default class App extends React.Component {
         </h4>
         How about not lending deposits in the first place? (tort reform
         {/*redo */ space}
-        2024nj.com){space}
+        nickcarducci.com){space}
         <span style={{ color: "cornflowerblue" }}>
           The laws against surrendering others’ freedom already exist.
         </span>
@@ -394,7 +394,7 @@ export default class App extends React.Component {
           <span style={{ float: "left", margin: "6px 10px" }}>
             humanharvest.info
           </span>
-          <a href="https://2024nj.com/bachelors">education</a>?
+          <a href="https://nickcarducci.com/bachelors">education</a>?
         </h4>
         Poverty literally is deflation globally, resets to inflation in the
         U.S., and the earth oscillates{space}
@@ -509,8 +509,8 @@ export default class App extends React.Component {
           tweetId="1635086547640012801"
         />
         Is disability insurance or are unemployment benefits and employment
-        retention credits more corrupt? 2024nj.com (TaxSecurityFirst.com for
-        Risk-Free Banking, Dollar interior vote commie.dev/police)
+        retention credits more corrupt? nickcarducci.com (TaxSecurityFirst.com
+        for Risk-Free Banking, Dollar interior vote commie.dev/police)
         <h2 style={{ margin: "4px 0px" }}>facebook.com/occupynewjersey</h2>
         <h3 style={{ margin: "4px 0px" }}>
           Tax security first -{space}
@@ -647,7 +647,7 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        <a href="https://2024nj.com/disability">
+        <a href="https://nickcarducci.com/disability">
           <span style={{ textDecoration: "line-through" }}>4x</span>
           {space}2.5m
         </a>
@@ -732,8 +732,8 @@ export default class App extends React.Component {
         <br />
         "stab, push, angry, not criminal???" Uneducated not disabled? Education
         pays, but it isn't presented for{space}
-        <a href="https://2024nj.com/bachelors">work</a>. 32% disabled are anti
-        social, excludes autism and down syndrome. I am actually disabled.
+        <a href="https://nickcarducci.com/bachelors">work</a>. 32% disabled are
+        anti social, excludes autism and down syndrome. I am actually disabled.
         {/**Jim Quinn */}
         <br />
         <br />
@@ -1052,7 +1052,12 @@ export default class App extends React.Component {
         immediately acquit for jail of unilaterally-known hazard -{space}
         <a href="https://thumbprint.us">torttech</a>. you deserve to have your
         {space}
-        <a href="https://2024nj.com">throat cut</a>
+        <a href="https://nickcarducci.com">throat cut</a>.
+        <h3>
+          Do software developers or bankers, governments, and economists think
+          deposits need to be loaned to send bit data? Doesn't banking the
+          unbanked require everyone to have a FedCash account?
+        </h3>
       </div>
     );
   }
