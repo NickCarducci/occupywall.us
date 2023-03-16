@@ -235,6 +235,14 @@ export default class App extends React.Component {
           //need an enemy; yikes
         }}
       >
+        Doesn't banking the unbanked require everyone to have a FedCash account?
+        {space}
+        <i>
+          Are third party donee beneficiary non-respondents or some other guys
+          the public in parts?
+        </i>
+        {space}Did Dodd-Frank make some banks too big to fail? Did Dodd-Frank do
+        anything to stop banks from lending deposits instead of taking fees?
         <h4 style={{ margin: "4px 0px" }}>
           Does the government bailout and stipend to make whole and recover the
           injured and traumatized, everyone, or only public companies, deposits'
@@ -1056,7 +1064,27 @@ export default class App extends React.Component {
         <h3>
           Do software developers or bankers, governments, and economists think
           deposits need to be loaned to send bit data? Doesn't banking the
-          unbanked require everyone to have a FedCash account?
+          unbanked require everyone to have a FedCash account?{space}
+          <span style={{ color: "cornflowerblue" }}>
+            Does a bond’s duration risk value ever make a factor coupon or are
+            bond yields usually if not always discounted because defaults are
+            foreseeable and planned for?
+          </span>
+          {space}Are immediate commercial account transactions or either general
+          interest multi level capital securities and/or extra viable product
+          duress exclusionary?{space}
+          <span style={{ color: "indianred" }}>
+            Are current banks that lend deposits instead of take fees to operate
+            halal or fully haram against cash-current non-responsive third party
+            donee beneficiaries surrendered for factors’ immaterial marginal
+            utility value benefit?
+          </span>
+          {space}Isn’t a Nash equilibrium strategy immediate while
+          Arrow-Debreu’s is intertemporal? Doesn’t the Hicks-Hansen model
+          operate on a cash{space}
+          <b style={{ float: "right" }}>micro-theory.com</b>basis while the
+          latter Debreu’s accrues invoices for work done less advances of
+          nonsale fixed costs to nature?
         </h3>
       </div>
     );
