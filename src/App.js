@@ -1067,8 +1067,8 @@ export default class App extends React.Component {
           unbanked require everyone to have a FedCash account?{space}
           <span style={{ color: "cornflowerblue" }}>
             Does a bond’s duration risk value ever make a factor coupon or are
-            bond yields usually if not always discounted because defaults are
-            foreseeable and planned for?
+            bond yields usually if not always discounted because of foreseen
+            defaults and so fraudulently planned for?
           </span>
           {space}Are immediate commercial account transactions or either general
           interest multi level capital securities and/or extra viable product
