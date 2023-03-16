@@ -235,6 +235,7 @@ export default class App extends React.Component {
           //need an enemy; yikes
         }}
       >
+        “listen, this is mine right now”
         <h4>
           Are financiers delusional or fraudulent planners? Isn't a jigger
           synonymous with a sellout?
