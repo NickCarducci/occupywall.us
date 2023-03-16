@@ -235,7 +235,7 @@ export default class App extends React.Component {
           //need an enemy; yikes
         }}
       >
-        “listen, this is mine right now”
+        “listen, this is mine right now”{/*Illinois v Arkansas 2023 TBS */}
         <h4>
           Are financiers delusional or fraudulent planners? Isn't a jigger
           synonymous with a sellout?
@@ -255,7 +255,13 @@ export default class App extends React.Component {
             {space}factor.
           </span>
         </h1>
-        Do you prefer multi-level capital or immediate stock commerce?{space}
+        <span style={{ color: "indianred" }}>
+          Does regular commerce become cheaper with insurance nonsale warranty
+          advances, invoices of work done, or either final goods and/or variable
+          extractable unitemporal-escrow capital stock?
+        </span>
+        {space}Do you prefer multi-level capital or immediate stock commerce?
+        {space}
         <b style={{ color: "tan" }}>
           Should advanced nonsale purchases and invoices of work done continue
           {space}
@@ -290,8 +296,19 @@ export default class App extends React.Component {
           Are third party donee beneficiary non-respondents or some other guys
           the public in parts?
         </i>
-        {space}Did Dodd-Frank make some banks too big to fail? Did Dodd-Frank do
-        anything to stop banks from lending deposits instead of taking fees?
+        {space}
+        <b>
+          Did Dodd-Frank make some banks too big to fail? (
+          <a href="https://vaults.quora.com/Did-Dodd-Frank-make-some-banks-too-big-to-fail-1">
+            The Answer is no...
+          </a>
+          ).
+        </b>
+        {space}
+        <span style={{ textDecoration: "underline" }}>
+          Did Dodd-Frank do anything to stop banks from lending deposits instead
+          of taking fees?
+        </span>
         <h4 style={{ margin: "4px 0px" }}>
           Does the government bailout and stipend to make whole and recover the
           injured and traumatized, everyone, or only public companies, deposits'
