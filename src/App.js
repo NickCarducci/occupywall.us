@@ -235,11 +235,20 @@ export default class App extends React.Component {
           //need an enemy; yikes
         }}
       >
+        Do you prefer multi-level capital or immediate stock commerce?
         <h2>
-          Should banks be forced to take fees instead of lend deposits
+          Should{space}
+          <span
+            style={{
+              textDecoration: "line-through"
+            }}
+          >
+            banks be forced
+          </span>
+          {space}we force banks to take fees instead of lend deposits
           intertemporally for complementary demand and substitutive supply, the
           absence of an alternative, or either extra viable product duress
-          and/or general interest multi level capital?
+          (exclusion) and/or general interest multi level capital (accounts)?
         </h2>
         Doesn't banking the unbanked require everyone to have a FedCash account?
         {space}
