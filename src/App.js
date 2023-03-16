@@ -557,7 +557,19 @@ export default class App extends React.Component {
           <span style={{ fontSize: "12px" }}>micro-theory.com</span>
         </h3>
         <br />
-        (the neck) debt for fallen tax receipts until producer deflation
+        Do educators, managers, or lenders get in the way of work?{space}
+        <span style={{ color: "grey" }}>
+          Should education or healthcare be provided to anyone?
+        </span>
+        {space}
+        <i style={{ color: "cornflowerblue" }}>
+          Should medical care escrow continue to be for internal and
+          psychological ailments or should supplemental income be for trauma
+          anytime while disability insurance be for injury during work and
+          public healthcare for sutures already?
+        </i>
+        {space}(<a href="https://marginalism.uk">the neck</a>) debt for fallen
+        tax receipts until producer deflation
         <br />
         Should socialists or everyone at 77 WABC drop dead?
         <br />
@@ -566,7 +578,9 @@ export default class App extends React.Component {
         </a>
         {space}68.85% didn't vote of the occupy supporters.{space}
         <span style={{ color: "firebrick" }}>
-          34% of the 99% are down with it. Well now it's more like 27%
+          34% of the 99% are down with it. Well now it's more like{space}
+          <span style={{ textDecoration: "line-through" }}>27%</span>
+          {space}10%; 47% don't want any insurance, even for medics.
         </span>
         . Was the $7t additional checkable deposits spent after 2019 mostly on
         continuing unemployment benefit claims, the paycheck protection program,
@@ -576,17 +590,26 @@ export default class App extends React.Component {
         <a href="https://saverparty.xyz">terrorism</a>.
         <br />
         <br />
-        "Climate change improvements and investments," says the judge who is
-        trust building, do not use their money nor your own constitutents on the
-        state as victim nor defendant, but for the beneficiaries of said
-        damages, albeit unwittingly, such protocol is even-handed mediation
-        without too much going to treasury nor laborless-demands' (insurance,
-        landlord, lender) projections
+        "Climate change [
+        <a href="https://treesdebindcarbon.quora.com/">
+          Is global warming due to carbon magnifying the sun’s rays?
+        </a>
+        ] improvements and investments," says the judge who is trust building,
+        do not use their money nor your own constitutents on the state as victim
+        nor defendant, but for the beneficiaries of said damages, albeit
+        unwittingly, such protocol is even-handed mediation without too much
+        going to treasury nor laborless-demands' (insurance, landlord, lender)
+        projections.
         <h1>
           65% support occupying wall st
           {/**vaults.biz/party, occupywallst.quora.com */} to end debt (
+          <a href="https://froth.quora.com/Are-many-Americans-against-universal-healthcare-because-they-dont-understand-how-it-works-1">
+            43%
+          </a>
+          {space}
           <a href="https://anchor.fm/micro-theory/episodes/Strategic-Voting-with-a-potential-network-effect-and-new-antifinance-alternative-e1qvulq">
-            36% want universal over private-public partership
+            <span style={{ textDecoration: "line-through" }}>36%</span>
+            {space}want universal over private-public partership
           </a>
           )
         </h1>
@@ -1107,9 +1130,9 @@ export default class App extends React.Component {
           {space}Isn’t a Nash equilibrium strategy immediate while
           Arrow-Debreu’s is intertemporal? Doesn’t the Hicks-Hansen model
           operate on a cash{space}
-          <b style={{ float: "right" }}>micro-theory.com</b>basis while the
-          latter Debreu’s accrues invoices for work done less advances of
-          nonsale fixed costs to nature?
+          <b style={{ float: "right", margin: "4px" }}>micro-theory.com</b>basis
+          while the latter Debreu’s accrues invoices for work done less advances
+          of nonsale fixed costs to nature?
         </h3>
       </div>
     );
