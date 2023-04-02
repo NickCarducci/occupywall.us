@@ -15,7 +15,7 @@
   "background_color": "rgb(20,20,25)",
   "icons": [
     {
-      "src": "https://www.dl.dropboxusercontent.com/s/y2nws5vjjlj7mws/vaultslogo--1-.png?dl=0",
+      "src": "https://www.dl.dropboxusercontent.com/s/sjy2dil74i4ty8w/occupy%20logo_144%20%281%29.png?dl=0",
       "sizes": "64x64 32x32 24x24 16x16 192x192 194x194 512x512",
       "type": "image/ico"
     }
@@ -30,10 +30,11 @@
       "short_name": "HMPG",
       "icons": [
         {
-          "src": "https://www.dl.dropboxusercontent.com/s/y2nws5vjjlj7mws/vaultslogo--1-.png?dl=0",
+          "src": "https://www.dl.dropboxusercontent.com/s/sjy2dil74i4ty8w/occupy%20logo_144%20%281%29.png?dl=0",
           "sizes": "192x192"
         }
       ]
     }
   ]
 }
+
