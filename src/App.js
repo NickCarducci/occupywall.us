@@ -238,7 +238,8 @@ export default class App extends React.Component {
         humanharvest.info
         <h2>
           Isn't Occupy Wall Street 85% non-voters, 13% democrats, and 2%
-          republicans?
+          republicans? Is the population sample always 100% significantly or
+          meaningfully confident?
         </h2>
         “listen, this is mine right now”
         {/*Illinois v Arkansas 2023 TBS */ space}
