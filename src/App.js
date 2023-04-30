@@ -235,6 +235,11 @@ export default class App extends React.Component {
           //need an enemy; yikes
         }}
       >
+        humanharvest.info
+        <h2>
+          Isn't Occupy Wall Street 85% non-voters, 13% democrats, and 2%
+          republicans?
+        </h2>
         “listen, this is mine right now”
         {/*Illinois v Arkansas 2023 TBS */ space}
         <i>
