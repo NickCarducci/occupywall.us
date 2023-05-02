@@ -235,6 +235,7 @@ export default class App extends React.Component {
           //need an enemy; yikes
         }}
       >
+        <h1>Does insurance appraise known hazards?</h1>
         humanharvest.info
         <h2>
           Isn't Occupy Wall Street 85% non-voters, 13% democrats, and 2%
