@@ -1,5 +1,5 @@
-### Occupy Wall St
+### Change.org/NickCarducci
 
-Merchant recession tax
+Digital recession tax
 occupybanks.uk
 github.com/nickcarducci/occupywall.us
