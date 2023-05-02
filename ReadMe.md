@@ -1,4 +1,5 @@
 ### Occupy Wall St
 
-occupywall.us
+Merchant recession tax
+occupybanks.uk
 github.com/nickcarducci/occupywall.us
